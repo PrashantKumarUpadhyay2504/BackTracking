@@ -1,5 +1,4 @@
-import javax.print.attribute.standard.Destination;
-import java.lang.reflect.ParameterizedType;
+
 
 public class Print_PathMatrix {
     public static boolean ratInMaze(int maze[][]){

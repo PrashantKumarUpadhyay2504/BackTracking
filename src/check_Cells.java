@@ -1,5 +1,3 @@
-import javax.print.attribute.standard.Destination;
-import java.lang.reflect.ParameterizedType;
 
 public class check_Cells {
     public static boolean ratInMaze(int maze[][]){

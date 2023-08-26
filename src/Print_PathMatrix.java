@@ -2,7 +2,7 @@
 
 public class Print_PathMatrix {
     public static boolean ratInMaze(int maze[][]){
-        int n=maze.length;
+        int n=maze.length; 
         int Path[][]=new int[n][n];
         return solveMaze(maze,0,0,Path);
     }
